@@ -1,2 +1,1 @@
-# CRISP
-Official repository for **CRISP: Cultural Reward Modeling for Implicit Situated Propriety**, including the NormCompass testbed, CRISP-RM models,and evaluation code.
+The NormCompass testbed, CRISP-RM models, and evaluation code will be released upon acceptance of the paper at ICLR 2027.
